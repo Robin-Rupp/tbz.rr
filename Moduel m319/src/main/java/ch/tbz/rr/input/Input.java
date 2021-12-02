@@ -1,4 +1,4 @@
-package ch.tbz.rr;
+package ch.tbz.rr.input;
 
 // Get from Class library (JDK)
 import java.util.Scanner; // Gets a parser for input data

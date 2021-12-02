@@ -1,10 +1,9 @@
 
 package ch.tbz.rr;
 
-
 import static java.lang.System.*;
+import static ch.tbz.rr.input.Input.*;
 
-import static ch.tbz.rr.Input.*;
 
 public class Calculator {
 
