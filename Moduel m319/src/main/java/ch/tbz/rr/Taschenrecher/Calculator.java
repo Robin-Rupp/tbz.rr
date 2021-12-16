@@ -1,5 +1,5 @@
 
-package ch.tbz.rr;
+package ch.tbz.rr.Taschenrecher;
 
 import static java.lang.System.*;
 import static ch.tbz.rr.input.Input.*;
