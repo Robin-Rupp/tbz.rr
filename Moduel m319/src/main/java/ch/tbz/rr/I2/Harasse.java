@@ -1,8 +1,6 @@
 package ch.tbz.rr.I2;
 
 import static ch.tbz.rr.input.Input.*;
-
-
 public class Harasse {
     public static void main(String[] args) {
         int amountBottels = inputInt("Anzahl flaschen?:");
